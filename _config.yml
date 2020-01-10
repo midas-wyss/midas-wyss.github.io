@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Predictive BioAnalytics @ Wyss Institute
 logo: images/predictivebio_logo.jpg
+markdown: kramdown
 
