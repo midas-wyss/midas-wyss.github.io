@@ -1,11 +1,12 @@
+# Site navigation
 - title: Home
- url: /
+  url: /
  
- - title: People
-  url: /people/
+- title: People
+   url: /people/
   
 - title: Publications
- url: /pubs/
+  url: /pubs/
  
 - title: Repositories
- url: /repos/
+  url: /repos/
