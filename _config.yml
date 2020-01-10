@@ -3,3 +3,8 @@ title: Predictive BioAnalytics @ Wyss Institute
 logo: images/predictivebio_logo.jpg
 markdown: kramdown
 
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
