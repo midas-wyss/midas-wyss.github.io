@@ -13,4 +13,4 @@ Our projects range a wide variety of biological applications, from synthetic bio
 
 **January 6, 2020\.** We are happy to announce that Dr. Rani Powers is joining the Predictive BioAnalytics team. Dr. Powers comes to us from the University of Colorado in Denver, where she did her Ph.D. with [Dr. James Costello](http://www.github.com/costellolab).
 
-**December 10, 2019\.** STORM (Sequence-based Toehold Optimization and Redesign Model) is a key element in Jackie Valeri and Katie Collins' new piece that is out on [bioRxiv](https://www.biorxiv.org/content/10.1101/870055v1)
+**December 10, 2019\.** STORM (Sequence-based Toehold Optimization and Redesign Model) is a key element in Jackie Valeri and Katie Collins' new piece that is out on [bioRxiv](https://www.biorxiv.org/content/10.1101/870055v1).

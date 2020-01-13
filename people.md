@@ -1,12 +1,12 @@
 ---
 layout: default
-title: People
+title: Team
 ---
 
-# People
+# Team
 
 
-The Predictive BioAnalytics group is led by [Dr. Diogo Camacho](diogo.camacho@wyss.harvard.edu) and is composed of a group os computational biologists, bioinformaticians, computer scientists, and data analysts, using machine learning, deep learning, and artificial intelligence tools to advance biological discoveries.
+The Predictive BioAnalytics group is led by [Dr. Diogo Camacho](diogo.camacho@wyss.harvard.edu) and is composed of computational biologists, bioinformaticians, computer scientists, and data analysts. We are using machine learning, deep learning, and artificial intelligence tools to advance biological discoveries.
 
 
 ## Staff Scientists
