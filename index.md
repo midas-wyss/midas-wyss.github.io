@@ -3,7 +3,7 @@ layout: default
 title: Predictive BioAnalytics @ Wyss Institute
 ---
 
-Our projects range a wide variety of biological applications, from synthetic biology to cancer biology, drug discovery, and biomarker identification. We have an ever growing team of collaborators around the world. Do not hesitate to [contact us](mailto:midas@wyss.harvard.edu) to inquire about job opportunities or to engage with us in new scientific explorations using machine learning applications to solve problems in biology. Find our publications [here](pubs.md) and takle time to get acquainted with the [team](people.md).
+Our projects range a wide variety of biological applications, from synthetic biology to cancer biology, drug discovery, and biomarker identification. We have an ever growing team of collaborators around the world. Do not hesitate to [contact us](mailto:midas@wyss.harvard.edu) to inquire about job opportunities or to engage with us in new scientific explorations using machine learning applications to solve problems in biology. Find our publications [here](pubs.md) and take time to get acquainted with the [team](people.md).
 
 
 
