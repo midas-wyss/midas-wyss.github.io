@@ -24,6 +24,6 @@ The Predictive BioAnalytics group is led by [Dr. Diogo Camacho](diogo.camacho@wy
 ## Undergraduate students and interns 
  - Katie Collins
  
-### Alumni
+## Alumni
  - Alberto de la Fuente
  - Sahil Loomba
