@@ -7,8 +7,10 @@ Our projects range a wide variety of biological applications, from synthetic bio
 
 
 
-## News
+## News and Announcements
 
 **January 11, 2020\.** New work from Daniel Bojar on deep learning models to learn the language of glycans can now be seen on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.10.902114v1).
+
+**January 6, 2020\.** We are happy to announce that Dr. Rani Powers is joining the Predictive BioAnalytics team. Dr. Powers comes to us from the University of Colorado in Denver, where she did her Ph.D. with [Dr. James Costello](http://www.github.com/costellolab).
 
 **December 10, 2019\.** STORM (Sequence-based Toehold Optimization and Redesign Model) is a key element in Jackie Valeri and Katie Collins' new piece that is out on [bioRxiv](https://www.biorxiv.org/content/10.1101/870055v1)
