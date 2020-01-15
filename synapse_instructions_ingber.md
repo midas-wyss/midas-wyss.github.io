@@ -31,7 +31,7 @@ Detailed instructions for accessing the data:
 
 ### 1. Register for a Synapse account
 
-<a href="https://www.synapse.org/#!RegisterAccount:0" target="blank">Click here to register for a new account</a>.
+<a href="https://www.synapse.org/#!RegisterAccount:0" target="blank">Click here to register for a new account</a> (opens in a new tab)
 
 Enter your email address and click the green **Send registration info** button.
 
