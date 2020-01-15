@@ -14,15 +14,18 @@
 
 The one-time set-up steps required for accessing data are:
 
-1. [Register for a Synapse account](#1-register-for-a-synapse-account)
-
-2. [Join the Ingber Lab Influenza Group](#2-join-the-ingber-lab-influenza-group)
+<ol start="1">
+  <li> <a href="#1-register-for-a-synapse-account">Register for a Synapse account</a></li>
+  <li> <a href="#2-join-the-ingber-lab-influenza-group">Join the Ingber Lab Influenza Group</a></li>
+</ol>
 
 After the above steps have been completed, you can sign in and download the data at any time from the <a href="https://www.synapse.org/#!Synapse:syn21519433/wiki/600460" target="blank">project page here</a> (&larr; bookmark me).
 
 Detailed instructions for accessing the data:
 
-3. [View and download data files](#3-viewing-and-downloading-data-files)
+<ol start="3">
+  <li> <a href="#3-viewing-and-downloading-data-files">View and download data files</a></li>
+</ol>
 
 ---
 
