@@ -113,6 +113,6 @@ Click **Download Package** to download the zipped folder with data files to your
 
 ## Additional resources
 
-For specific questions regarding the Ingber Lab Influenza Group on Synapse, or the data itself, please contact Rani Powers (<a href="mailto:rani.powers@wyss.harvard.edu">rani.powers@wyss.harvard.edu</a>).
+For specific questions regarding the Ingber Lab Influenza Group on Synapse, or the data itself, please <a href="mailto:rani.powers@wyss.harvard.edu">contact Rani Powers</a>.
 
 For general questions regarding Synapse, please refer to the full user guide <a href="https://docs.synapse.org/articles/" target="blank">here</a>.
