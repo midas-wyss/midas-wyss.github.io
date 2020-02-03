@@ -3,7 +3,7 @@
 ---
 
 <a href="https://www.synapse.org/#!Synapse:syn21519433/wiki/600460" target="blank">
-<img src="images/synapse/00-logo.png" width="300">
+<img src="images/synapse/00b-logo.png" width="300">
 </a>
 
 ## What is Synapse?
