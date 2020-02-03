@@ -19,7 +19,7 @@ The one-time set-up steps required for accessing data are:
   <li> <a href="#2-request-access-to-the-predictive-bioanalytics-group">Request access to the Predictive BioAnalytics Group</a></li>
 </ol>
 
-After the above steps have been completed, you can sign in and download the data at any time from the <a href="https://www.synapse.org/#!Synapse:syn21519433/wiki/600460" target="blank">project page here</a> (&larr; bookmark me).
+After the above steps have been completed, you can sign in and download the data at any time from the <a href="https://www.synapse.org/#!Profile:3395740/projects" target="blank">project page here</a> (&larr; bookmark me).
 
 Detailed instructions for accessing the data:
 
